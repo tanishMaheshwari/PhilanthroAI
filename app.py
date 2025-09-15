@@ -27,7 +27,7 @@ if 'GOOGLE_API_KEY' not in os.environ:
     raise ValueError("Please set the GOOGLE_API_KEY environment variable.")
 
 # Define directories
-PROFILE_DIR = "./ngo_profiles"
+PROFILE_DIR = "./docs"
 DB_DIR = "./chroma_db"
 
 # --- 2. PHASE 1: KNOWLEDGE BASE CONSTRUCTION (FOR PDFs) ---
