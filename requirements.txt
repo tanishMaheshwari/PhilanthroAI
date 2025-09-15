@@ -1,0 +1,10 @@
+langchain
+langchain-google-genai
+langgraph
+beautifulsoup4
+langchain-community
+chromadb
+pydantic
+python-dotenv
+pypdf
+streamlit
