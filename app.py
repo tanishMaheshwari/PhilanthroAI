@@ -120,7 +120,7 @@ class AgentState(TypedDict):
     retrieved_docs: List[Document]
     latest_intent: str
 
-llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash")
+llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash")
 retriever = None
 
 def classify_intent_node(state: AgentState):
