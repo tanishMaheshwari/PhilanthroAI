@@ -1,18 +1,37 @@
 {
   "governance_knowledge_base": {
+    "organization": "Akshaya Patra Foundation",
     "overview": {
       "description": "Akshaya Patra’s mission is to ensure no child in India is deprived of education because of hunger by providing nutritious meals every school day.",
       "vision": "No child in India shall be deprived of education because of hunger.",
       "mission": "To feed 3 million children every school day by 2025.",
-      "values": ["Compassion", "Integrity", "Quality", "Synergy", "Trustworthiness", "Devotion"]
+      "values": [
+        "Compassion",
+        "Integrity",
+        "Quality",
+        "Synergy",
+        "Trustworthiness",
+        "Devotion"
+      ]
     },
     "partnership_model": {
       "description": "A public-private partnership model collaborating with governments, corporate donors, philanthropists and volunteers to serve children and communities.",
-      "initiatives": ["PM POSHAN initiative", "ICDS Anganwadi feeding", "Scholarships", "School rejuvenation", "Remedial classes"]
+      "initiatives": [
+        "PM POSHAN initiative",
+        "ICDS Anganwadi feeding",
+        "Scholarships",
+        "School rejuvenation",
+        "Remedial classes"
+      ]
     },
     "compliance": {
       "description": "Adheres to laws and regulations to ensure ethical, transparent, and accountable operations.",
-      "registrations": ["NGO under Indian Trusts Act", "Income Tax 12A(a)", "CSR registration with MCA", "FCRA registration"]
+      "registrations": [
+        "NGO under Indian Trusts Act",
+        "Income Tax 12A(a)",
+        "CSR registration with MCA",
+        "FCRA registration"
+      ]
     }
   },
   "programs_events": [
@@ -35,7 +54,25 @@
   ],
   "locations": [
     {
-      "states": ["Andhra Pradesh", "Assam", "Chhattisgarh", "Delhi", "Gujarat", "Jharkhand", "Karnataka", "Madhya Pradesh", "Maharashtra", "Odisha", "Puducherry", "Rajasthan", "Tamil Nadu", "Telangana", "Tripura", "Uttar Pradesh", "Uttarakhand"],
+      "states": [
+        "Andhra Pradesh",
+        "Assam",
+        "Chhattisgarh",
+        "Delhi",
+        "Gujarat",
+        "Jharkhand",
+        "Karnataka",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Odisha",
+        "Puducherry",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Telangana",
+        "Tripura",
+        "Uttar Pradesh",
+        "Uttarakhand"
+      ],
       "UTs": ["Dadra & Nagar Haveli and Daman & Diu"],
       "kitchens": "70 centralised, 2 decentralised, plus upcoming units"
     }
@@ -49,7 +86,16 @@
     }
   },
   "health_nutrition": {
-    "meal_types": ["Khichdi", "Kheer", "Chole Rice", "Dal Rice", "Roti Chole", "Pitha", "Rajma", "Daliya"],
+    "meal_types": [
+      "Khichdi",
+      "Kheer",
+      "Chole Rice",
+      "Dal Rice",
+      "Roti Chole",
+      "Pitha",
+      "Rajma",
+      "Daliya"
+    ],
     "nutritional_benefits": ["Proteins", "Calcium", "Vitamin D"],
     "community_stories": [
       {
@@ -76,16 +122,34 @@
         "name": "Arpan Sharma",
         "location": "Silvassa, Dadra & Nagar Haveli and Daman & Diu",
         "aspiration": "Become an IAS officer to improve education and infrastructure",
-        "challenges": ["Forest area with poor amenities", "Parental disability"],
+        "challenges": [
+          "Forest area with poor amenities",
+          "Parental disability"
+        ],
         "support": "School meals helped him focus on studies and set ambitious goals"
       }
     ]
   },
   "stakeholders": {
     "volunteers": "16,255 volunteers from 208 corporate entities participated in 778 events",
-    "corporate_partners": ["Swiss Re Foundation", "Apple India", "HSBC", "Cargill", "Microsoft", "Trelleborg"],
-    "government_partners": ["Ministry of Education", "State Governments", "Union Territory Administrations"],
-    "philanthropic_support": ["Individual donors", "Foundations", "CSR initiatives"]
+    "corporate_partners": [
+      "Swiss Re Foundation",
+      "Apple India",
+      "HSBC",
+      "Cargill",
+      "Microsoft",
+      "Trelleborg"
+    ],
+    "government_partners": [
+      "Ministry of Education",
+      "State Governments",
+      "Union Territory Administrations"
+    ],
+    "philanthropic_support": [
+      "Individual donors",
+      "Foundations",
+      "CSR initiatives"
+    ]
   },
   "future_plans": {
     "international_chapters": "Exploring global partnerships to support India’s feeding initiatives",
