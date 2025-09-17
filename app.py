@@ -140,17 +140,7 @@ class AgentState(TypedDict):
     latest_intent: str
 
 
-class MockEmbeddings:
-    def embed_query(self, query: str):
-        # Return a fixed-length dummy vector for the query
-        return [0.0] * 512
-
-    def embed_documents(self, documents: List[Document]):
-        # Return a list of dummy vectors for each document
-        return [[0.0] * 512 for _ in documents]
-
-
-llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash")
+llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash")
 retriever = None
 
 
