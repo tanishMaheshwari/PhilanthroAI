@@ -1,0 +1,72 @@
+{
+  "organization": "CRY (Child Rights and You)",
+  "mission": "Create a happy, healthy and creative environment where every child’s rights are protected, ensuring education, nutrition, safety and participation.",
+  "key_focus_areas": [
+    "Education Access and Retention",
+    "Nutrition and Healthcare",
+    "Child Protection and Safety",
+    "Public Policy Advocacy",
+    "Community Engagement"
+  ],
+  "impact_metrics": {
+    "children_impacted": 4700000,
+    "school_enrolment_rate": "94% children in school",
+    "child_labour_protection": "97% children protected",
+    "child_marriage_protection": "98% adolescent girls protected",
+    "undernourishment_reduction": "88% children under 5 protected"
+  },
+  "programs": [
+    {
+      "name": "CyberSmart Heroes",
+      "description": "Awareness program on online safety reaching over 58,000 children with volunteer trainers."
+    },
+    {
+      "name": "Don’t Help Children by Employing Them",
+      "description": "National campaign dispelling myths around child labour and mobilizing community action."
+    },
+    {
+      "name": "STEM and Digital Learning Centers",
+      "description": "Innovative educational initiatives to prepare children for future opportunities."
+    }
+  ],
+  "community_stories": [
+    {
+      "name": "Sanjana",
+      "description": "From an underserved community, she won gold in a karate tournament, empowered through education and life skills."
+    },
+    {
+      "name": "Mahek",
+      "description": "Overcame societal stigma around menstruation to continue education and aspire to become a doctor."
+    },
+    {
+      "name": "Sandhya",
+      "description": "Pursuing law degree to become an IAS officer despite economic hardships and lack of infrastructure."
+    }
+  ],
+  "partnerships": {
+    "corporate": ["Microsoft", "Adobe", "Google", "HCL Tech"],
+    "government": ["National Institute of Disaster Management", "State Disaster Response Force"],
+    "academic": ["Loyola College", "NALSAR University of Law"],
+    "media": ["All India Radio"]
+  },
+  "events": [
+    {
+      "name": "Walk to EmpowHER",
+      "description": "Awareness walk for girls' education with participation from over 2,800 people."
+    },
+    {
+      "name": "Kala Ghoda Arts Festival Installation",
+      "description": "Interactive art to encourage outdoor play for children, attracting 9 lakh visitors."
+    }
+  ],
+  "financials": {
+    "total_income_lakhs": 7216,
+    "establishment_expenses_lakhs": 1311,
+    "child_development_initiatives_lakhs": 3823
+  },
+  "volunteer_engagement": {
+    "total_volunteers": 10551,
+    "total_interns": 1264,
+    "children_impacted": 75000
+  }
+}
