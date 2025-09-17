@@ -140,7 +140,7 @@ class AgentState(TypedDict):
     latest_intent: str
 
 
-llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash")
+llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash")
 retriever = None
 
 
