@@ -1,0 +1,120 @@
+{
+  "governance_knowledge_base": {
+    "overview": {
+      "description": "Concepts of governance and good governance as applied in Ramayana and modern development.",
+      "topics": [
+        "Governance in Ramayana",
+        "Good governance definitions",
+        "Citizen rights: RTI, RTE, RTS"
+      ]
+    },
+    "vision": "To be the hallmark of Good Governance in India.",
+    "missions": [
+      "Reach out to the last individual of civil society",
+      "Encourage use of citizen rights",
+      "Support government initiatives",
+      "Undertake independent developmental actions",
+      "Capacitate needy through education and healthcare",
+      "Promote interface between components for nation building"
+    ]
+  },
+  "programs_events": [
+    {
+      "name": "National Panchayati Raj Day",
+      "description": "Raised awareness about Gram Sansad functioning and strengthening Panchayati Raj Institutions.",
+      "location": "Uttar Pradesh",
+      "date": "October 2020"
+    },
+    {
+      "name": "Vaccination Drive",
+      "description": "Supported vaccination efforts at two centers, educated people about safety and booking.",
+      "locations": ["Pt. Deen Dayal Upadhyay Media Centre", "Dr. Shyama Prasad Mukherjee Civil Hospital"],
+      "date": "2021"
+    },
+    {
+      "name": "Rescue Drive",
+      "description": "Conducted health checks in rural areas with oxygen and temperature monitoring, distributed hygiene products.",
+      "location": "Uttar Pradesh",
+      "date": "2021"
+    },
+    {
+      "name": "Right to Information Day",
+      "description": "Webinar on 'Is RTI under attack?' with experts discussing challenges and future of RTI.",
+      "date": "2021"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Babhniyawan",
+      "district": "Bahraich, Uttar Pradesh",
+      "issues": ["Transport connectivity", "54% illiteracy rate", "Limited educational facilities"]
+    },
+    {
+      "name": "Darjipurwan",
+      "district": "Bahraich, Uttar Pradesh",
+      "issues": ["Below national literacy average", "Early marriage of girls", "Employment migration"]
+    },
+    {
+      "name": "Keshwapur Pajawa",
+      "district": "Shravasti, Uttar Pradesh",
+      "issues": ["Remote location", "Limited households", "Lockdown challenges"]
+    }
+  ],
+  "support": {
+    "donation": {
+      "description": "Support ongoing efforts to improve community welfare.",
+      "link": "http://www.agamindia.org/page/donate-us"
+    },
+    "contact": {
+      "email": ["coordinator@agamindia.org"],
+      "phone": ["011-4570 2615", "+91-78277 42035"]
+    }
+  },
+  "health_awareness": {
+    "rescue_drive": {
+      "description": "Pulse oximeter and temperature checks, hygiene distribution.",
+      "location": "Rural Uttar Pradesh"
+    },
+    "medical_camp": {
+      "description": "Free medical camp offering consultations and medication.",
+      "location": "Gonda, Uttar Pradesh",
+      "date": "17 February 2022"
+    }
+  },
+  "legal_grievance": {
+    "project_nivaran": {
+      "description": "Helpline and advocacy to help citizens access grievance redressal mechanisms.",
+      "helpline": "+011-4570-2615",
+      "email": "helpline.nivaran@gmail.com"
+    }
+  },
+  "cultural_programs": [
+    {
+      "name": "Diwali Celebrations",
+      "description": "Distribution of sweets and calendars with legal aid information.",
+      "location": "Kailash Hills, South Delhi",
+      "date": "2021"
+    },
+    {
+      "name": "Republic Day",
+      "description": "Flag hosting event to promote civic pride.",
+      "date": "2021"
+    },
+    {
+      "name": "Azadi ka Amrit Mahotsav",
+      "description": "Participation in cultural events and contests organized by Ministry of Culture.",
+      "date": "2021"
+    }
+  ],
+  "future_vision": {
+    "goals": [
+      "Ensure primary education to all children",
+      "Promote literacy among adults and slum dwellers",
+      "Provide healthcare and education to needy people",
+      "Generate income opportunities for youth",
+      "Work on gender welfare issues",
+      "Create environmental awareness",
+      "Promote communal harmony and national integration"
+    ]
+  }
+}

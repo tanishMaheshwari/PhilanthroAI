@@ -1,0 +1,59 @@
+{
+  "organization": "Animal Aid Unlimited & Animal Aid Charitable Trust (AACT)",
+  "mission": "Rescue and treat unowned street animals in Udaipur, and inspire community involvement in animal protection.",
+  "key_focus_areas": [
+    "Animal Rescue and Treatment",
+    "Sterilization and Vaccination Programs",
+    "Education and Outreach for Animal Welfare",
+    "Sanctuary Care and Shelter Improvements"
+  ],
+  "impact_metrics": {
+    "rescue_requests": 34519,
+    "rescued_animals": 15265,
+    "admitted_animals": {
+      "dogs": 7937,
+      "cows": 1388,
+      "others": 1719
+    },
+    "sterilized_dogs": 1472,
+    "street_treatment_visits": 8761
+  },
+  "programs": [
+    {
+      "name": "CNVR Program",
+      "description": "Catch, neuter, vaccinate and release program for humane stray dog population management.",
+      "partners": ["Udaipur Municipal Corporation"]
+    },
+    {
+      "name": "Sterilisation Center Renovation",
+      "description": "Reopening and expansion of sterilization facilities post-COVID to prevent disease and overpopulation."
+    },
+    {
+      "name": "Sanctuary Expansion",
+      "description": "Improved shelters for cows and bulls including better roofs and monsoon protection."
+    }
+  ],
+  "community_engagement": {
+    "helpline": "Nearly 100 calls per day reporting animal emergencies.",
+    "education": "Guidance provided to helpline callers for post-recovery care and animal welfare."
+  },
+  "future_plans": {
+    "new_hospital": "Plans for a state-of-the-art hospital with buffer land ensuring peaceful conditions for animals."
+  },
+  "financials": {
+    "total_running_costs_usd": 1227557,
+    "fixed_assets_usd": 416419,
+    "total_income_usd": 3304470
+  },
+  "donation_channels": {
+    "website": "https://www.animalaidunlimited.org/donate",
+    "paypal": "https://www.paypal.com/donate/?hosted_button_id=3W8AJCX3Q2XTJ",
+    "bank_transfers": {
+      "india": {
+        "account_name": "Animal Aid Charitable Trust",
+        "account_number": "50100215696419"
+      },
+      "international": "Available in USD, EUR, GBP, AUD"
+    }
+  }
+}
