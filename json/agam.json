@@ -1,5 +1,6 @@
 {
   "governance_knowledge_base": {
+    "organization": "The Agam Foundation, India",
     "overview": {
       "description": "Concepts of governance and good governance as applied in Ramayana and modern development.",
       "topics": [
@@ -28,7 +29,10 @@
     {
       "name": "Vaccination Drive",
       "description": "Supported vaccination efforts at two centers, educated people about safety and booking.",
-      "locations": ["Pt. Deen Dayal Upadhyay Media Centre", "Dr. Shyama Prasad Mukherjee Civil Hospital"],
+      "locations": [
+        "Pt. Deen Dayal Upadhyay Media Centre",
+        "Dr. Shyama Prasad Mukherjee Civil Hospital"
+      ],
       "date": "2021"
     },
     {
@@ -47,12 +51,20 @@
     {
       "name": "Babhniyawan",
       "district": "Bahraich, Uttar Pradesh",
-      "issues": ["Transport connectivity", "54% illiteracy rate", "Limited educational facilities"]
+      "issues": [
+        "Transport connectivity",
+        "54% illiteracy rate",
+        "Limited educational facilities"
+      ]
     },
     {
       "name": "Darjipurwan",
       "district": "Bahraich, Uttar Pradesh",
-      "issues": ["Below national literacy average", "Early marriage of girls", "Employment migration"]
+      "issues": [
+        "Below national literacy average",
+        "Early marriage of girls",
+        "Employment migration"
+      ]
     },
     {
       "name": "Keshwapur Pajawa",
